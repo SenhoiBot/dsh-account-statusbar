@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek Balance Status Bar",
+    "description": "Shows the DeepSeek account balance as the first item of the bottom status bar; click to refresh."
+  }
+}

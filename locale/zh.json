@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek 余额状态栏",
+    "description": "在界面底部状态栏中显示 DeepSeek 账户余额，可点击刷新。"
+  }
+}
